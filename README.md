@@ -39,22 +39,9 @@ Install dependencies:
 npm install
 
 
-Create .env file:
-
-COUNTRY_API_KEY=your_key
-EXCHANGE_API_KEY=your_key
-NEWS_API_KEY=your_key
+Create .env file
 
 
 Run the server:
 
 node server.js
-
-
-Open:
-
-http://localhost:3000
-
-📄 Purpose
-
-Educational project for practicing REST APIs and frontend–backend interaction.
